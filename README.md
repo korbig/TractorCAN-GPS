@@ -1,1 +1,1 @@
-# TractorCAN-GPS
+This repository contains a jupyter notebook to exemplary plot the data from the data respository Zenodo (10.5281/zenodo.14619787) from the publication Agricultural Load Cycles: Tractor Mission Profiles From Recorded GNSS and CAN Bus Data.
